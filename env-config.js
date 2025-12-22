@@ -1,1 +1,10 @@
-window.__ENV = {};
+window.__ENV = {
+  "SUPER_ADMIN_USERNAME": "ifmouz",
+  "SUPER_ADMIN_PASSWORD": "Ac123456",
+  "PERSISTENCE_PROVIDER": "appwrite",
+  "APPWRITE_URL": "https://sgp.cloud.appwrite.io/v1",
+  "APPWRITE_PROJECT_ID": "690d61610024fabdd264",
+  "APPWRITE_DATABASE_ID": "693a5cfb001c57bedcd8",
+  "APPWRITE_PASSWORD_MODE": "function",
+  "APPWRITE_FUNCTION_UPDATE_PASSWORD": "6943c25700381b40a4f4"
+};

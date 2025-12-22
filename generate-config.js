@@ -1,8 +1,13 @@
 const fs = require('fs');
 const path = require('path');
 
+// Load .env file
+require('dotenv').config({ path: path.join(__dirname, '..', '.env') });
+
 // List of environment variables to expose to the client
 const ENV_VARS = [
+  'SUPER_ADMIN_USERNAME',
+  'SUPER_ADMIN_PASSWORD',
   'PERSISTENCE_PROVIDER',
   'SUPABASE_URL',
   'SUPABASE_ANON_KEY',
