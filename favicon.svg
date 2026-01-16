@@ -1,4 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <rect width="32" height="32" fill="#667eea"/>
-  <text x="16" y="22" font-family="Arial" font-size="18" fill="white" text-anchor="middle">✓</text>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>SCG BMMS Icon</title>
+  <rect width="64" height="64" rx="16" fill="#0F172A"/>
+  <path d="M16 48V20L32 10L48 20V48H16Z" fill="#3B82F6"/>
+  <path d="M32 10L48 20H16L32 10Z" fill="#60A5FA"/>
+  <rect x="22" y="26" width="8" height="8" rx="1" fill="white"/>
+  <rect x="34" y="26" width="8" height="8" rx="1" fill="white"/>
+  <rect x="22" y="38" width="8" height="8" rx="1" fill="white"/>
+  <rect x="34" y="38" width="8" height="8" rx="1" fill="white"/>
+  <rect x="16" y="44" width="32" height="4" fill="#F97316"/>
 </svg>
