@@ -1,2 +1,2 @@
-export{a as default}from"./main-4dcd0c26.js";
+export{a as default}from"./main-247bc522.js";
 //# sourceMappingURL=bundle.js.map
